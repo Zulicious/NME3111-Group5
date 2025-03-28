@@ -1,1 +1,28 @@
-CITATION.cff
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Updated MED Group5
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Zulfaqar
+    family-names: Yunos
+    email: zulfaqaryunos@gmail.com
+  - given-names: Arif
+    family-names: Izzat
+  - given-names: Shakeer
+    family-names: Muhiyadeen
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Zulicious/NME3111-Group5/blob/main/Updated_MED_Grp_5.ipynb
+    description: Google Collab
+repository-code: >-
+  https://github.com/Zulicious/NME3111-Group5/blob/main/Updated_MED_Grp_5.ipynb
+abstract: Google Collab Coding for NME3111
+license: MIT
+version: '1'
+date-released: '2025-03-28'
